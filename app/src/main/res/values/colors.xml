@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#004ba0</color>
+    <color name="colorAccent">#63a4ff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorFabNormal">#ff0f4867</color>
+    <color name="colorFabPressed">#ff0f4867</color>
+    <color name="colorFabRipple">#ff0f4867</color>
+
+    <color name="colorPrimaryIDA">#FF000000</color>
+    <color name="colorPrimaryDarkIDA">#FF000000</color>
+    <color name="colorAccentIDA">#63a4ff</color>
+
+</resources>

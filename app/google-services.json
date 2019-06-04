@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032092764832",
+    "firebase_url": "https://memeswala-1f45a.firebaseio.com",
+    "project_id": "memeswala-1f45a",
+    "storage_bucket": "memeswala-1f45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032092764832:android:ae37d58cbe83ae93",
+        "android_client_info": {
+          "package_name": "com.bestmeme.memeswala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032092764832-af8vnto6kqdfu6ltu47umiqnc3ar39if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bestmeme.memeswala",
+            "certificate_hash": "ad7f86f4c38e8cf799a1413bc520781921f63f8b"
+          }
+        },
+        {
+          "client_id": "1032092764832-fscjrs351rotfcdd8dmf9gakj6789n33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8AOdBio5JTYyZI2FnQrGu5iJsjeXXfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032092764832-fscjrs351rotfcdd8dmf9gakj6789n33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

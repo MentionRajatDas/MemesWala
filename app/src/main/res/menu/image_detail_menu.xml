@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favourite"
+        android:orderInCategory="100"
+        android:title="Favourite"
+        android:tooltipText="Favourite"
+        android:icon="@drawable/fav_check_box"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/share_image"
+        android:orderInCategory="100"
+        android:title="Share"
+        android:tooltipText="Share"
+        android:icon="@drawable/ic_menu_share"
+        app:showAsAction="ifRoom" />
+</menu>
